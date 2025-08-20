@@ -1,0 +1,31 @@
+#task 1
+#addition
+a=float(input('enter your number : '))
+b=float(input('enter your number : '))
+sum=a+b
+print(sum)
+
+#subtraction
+a=float(input('enter your number : '))
+b=float(input('enter your number : '))
+subtraction=a-b
+print(subtraction)
+
+#multiplication
+a=float(input('enter your number : '))
+b=float(input('enter your number : '))
+multiplication=a*b
+print(multiplication)
+
+#division
+a=float(input('enter your number : '))
+b=float(input('enter your number : '))
+division=a/b
+print(division)
+
+
+#task 2
+a=input('enter your first name : ')
+b=input('enter your last name : ')
+print( "hello ,  " + a + " " +b + "! welcome!")
+
